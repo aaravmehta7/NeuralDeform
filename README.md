@@ -1,3 +1,3 @@
 Neural ODE for s-rep deformations.
 
-Some code and comments were AI-generated
+Some code was AI-generated for readability and ease of use after initial experiments.
